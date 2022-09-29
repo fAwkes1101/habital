@@ -1,5 +1,5 @@
 # Zesty
-Final Project: 
+Final Project: https://csb-tqlkdk.netlify.app/
 
 A simple photo gallery carousel website.
 
